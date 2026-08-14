@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-r8reo3.radarsatu88.shop/sitemap.xml
